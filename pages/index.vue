@@ -1,6 +1,7 @@
 <template>
   <div class="container">
     <h1>Joachim</h1>
+    <p> Test netlify, Yarn, github </p>
   </div>
 </template>
 
